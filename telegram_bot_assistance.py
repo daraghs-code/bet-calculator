@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 31 22:10:41 2024
-
-@author: dobme
-"""
-
 import telegram_bot_api as tb_api
 import telebot
 import time
