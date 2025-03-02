@@ -16,3 +16,7 @@ The derivation of the formula used in the function to calulate bet size:
 `(bet size 1)(odds 1) + (bet size 1) = (bet size 2)(odds 2) + (bet size 2)`
 
 `(bet size 1) = ((bet size 2)((odds 2) + 1))/((odds 1) + 1)`
+
+The link for a google sheets file with my active trades: 
+
+https://docs.google.com/spreadsheets/d/1izNBUCKYip4jji0GxSw4d_Eou8-vZwW6PS4_BL9l2J8/edit?usp=sharing
